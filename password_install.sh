@@ -3,6 +3,7 @@
 
 brew install caskroom/cask/brew-cask
 
+brew cask install google-japanese-ime
 brew cask install python
 brew cask install vagrant
 

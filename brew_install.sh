@@ -4,7 +4,7 @@
 brew install ansible
 brew install git-flow
 brew install icoutils
-brew install libmemcached
+#brew install libmemcached #error
 brew install macvim
 brew install memcached
 brew install openssl
