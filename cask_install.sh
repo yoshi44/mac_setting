@@ -1,12 +1,15 @@
 #!/bin/sh
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+brew update
+
 brew install caskroom/cask/brew-cask
 
 brew cask install awareness
 brew cask install bartender
 brew cask install battery-guardian
 #brew cask install curl #error
+brew cask install ghc
 #brew cask install github # error
 #brew cask install git-flow #error
 brew cask install google-chrome
@@ -37,7 +40,6 @@ brew cask install vagrant-manager
 #brew cask install wget #error
 #brew cask install xquartz #password
 
-brew update
 brew list -l
 brew doctor
 
