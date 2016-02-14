@@ -19,7 +19,7 @@ brew cask install hipchat
 #brew cask install libmemcached #error
 #brew cask install intellij-idea-ce #error
 brew cask install iterm2
-brew cask install java
+#brew cask install java #password
 brew cask install joinme
 #brew cask install memcached #error
 #brew cask install openssl #error
