@@ -10,10 +10,13 @@ brew cask install battery-guardian
 #brew cask install github # error
 #brew cask install git-flow #error
 brew cask install google-chrome
+brew cask install google-japanese-ime
 brew cask install hipchat
 #brew cask install icoutils #error
 #brew cask install libmemcached #error
+brew cask install intellij-idea-ce
 brew cask install iterm2
+brew cask install java8
 brew cask install joinme
 #brew cask install memcached #error
 #brew cask install openssl #error
@@ -23,6 +26,7 @@ brew cask install rescuetime
 brew cask install satellite-eyes
 brew cask install sidestep
 brew cask install sonos
+brew cask install sourcetree
 brew cask install spotify
 brew cask install steam
 #brew cask install testflight #error
